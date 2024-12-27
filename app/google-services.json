@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557975835849",
+    "project_id": "uasfix-3ffbe",
+    "storage_bucket": "uasfix-3ffbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557975835849:android:8b1ae36ef56212041f2918",
+        "android_client_info": {
+          "package_name": "com.cindy.uasfix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoNXB46Y3q-uZRAZeFunW6F8Uzgjn0im4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
